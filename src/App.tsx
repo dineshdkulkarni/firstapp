@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is my first web site on AWS. 
+          This is my first web site on Azure.... 
         </p>
         <a
           className="App-link"
